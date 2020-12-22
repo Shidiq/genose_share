@@ -1,0 +1,11 @@
+# make sure your machine have Python 3.8 and activated python PATH
+scipy==1.4.1
+numpy==1.18.5
+pandas
+scikit-learn
+matplotlib
+pyqt5-tools
+PyQtWebEngine
+pyserial
+xlrd
+openpyxl
