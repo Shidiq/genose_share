@@ -9,3 +9,4 @@ PyQtWebEngine
 pyserial
 xlrd
 openpyxl
+requests
