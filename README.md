@@ -26,6 +26,10 @@ Tujuan pembuatan GeNose C19-S adalah menyediakan alat skrining cepat, akurat dan
 
 ## Release
 
+### 1.0.0+build.10 (12 Januari 2021)
+
+- bug fixed probability report
+
 ### 1.0.0+build.9 (9 Januari 2021)
 
 - bug fixed report on screening mode
