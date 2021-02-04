@@ -26,6 +26,17 @@ Tujuan pembuatan GeNose C19-S adalah menyediakan alat skrining cepat, akurat dan
 
 ## Release
 
+### 1.2.4 (4 Februari 2021)
+
+- Edit/Backup/Restore template
+- minor bug fixed
+
+### 1.2.0 (1 Februari 2021)
+
+- Add public transportation mode (Experiment)
+- Ai versi 103 build 0
+- Qrcode template report
+
 ### 1.1.7 (30 Januari 2021)
 
 - bug fixed some device not working for second analysis.
