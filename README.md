@@ -28,7 +28,7 @@ Tujuan pembuatan GeNose C19-S adalah menyediakan alat skrining cepat, akurat dan
 
 ### 1.3.2 (22 Februari 2021)
 
-- Improve prediction
+- Improve detection
 
 ### 1.3.1 (15 Februari 2021)
 
